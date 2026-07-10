@@ -1,4 +1,4 @@
-public class a1 {
+public class a01 {
     public static void main(String[] args){
         int num = 41;
         if(num > 0 ){
